@@ -1,1 +1,1 @@
-# PortfolioWebsite
+# Hello, I’m Scott. I’ve previously worked in construction and currently drill with the Army National Guard. I also do photography and videography as a side job. I’ve always been passionate about IT and I have experience building computers, so I’m excited and motivated to learn programming languages, which will enhance my understanding of computers and tech. I plan to use my programming skills to create websites for my local community because I’d like to make it easier for photographers to give the client their photos.
